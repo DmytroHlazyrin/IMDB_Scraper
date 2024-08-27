@@ -9,8 +9,8 @@ You can find the scraping result at the link:
 ```
 https://docs.google.com/spreadsheets/d/1ZPf3ispItKlziV6Y_ln9LORq8A1QYs3G1KzWYqJXv1Q/edit?usp=sharing
 ```
-![Movies Sheet](images/movies_sheet.png)
-![Actors Sheet](images/actors_sheet.png)
+![Movies Sheet](images/Movies_sheet.png)
+![Actors Sheet](images/Actors_sheet.png)
 #### Film:
 - "Position in rating",
 - "Title",,
