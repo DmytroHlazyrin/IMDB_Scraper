@@ -1,3 +1,5 @@
 Scrapy~=2.11.2
 selenium~=4.23.1
 python-decouple~=3.8
+gspread~=6.1.2
+oauth2client~=4.1.3
