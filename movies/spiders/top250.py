@@ -14,6 +14,7 @@ from movies.google_sheets import GoogleSheetsHandler
 MOVIES_JSON_PATH = config("MOVIES_JSON_PATH")
 ACTORS_JSON_PATH = config("ACTORS_JSON_PATH")
 
+
 class Top250Spider(scrapy.Spider):
     """
     Spider for scraping IMDb's top 250 movies. Gathers data and stores
