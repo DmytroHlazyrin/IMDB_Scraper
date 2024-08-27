@@ -2,7 +2,6 @@ from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from decouple import config
 
-
 class ChromeDriver:
     _instance = None
     chrome_driver_path = config("CHROME_DRIVER_PATH")
